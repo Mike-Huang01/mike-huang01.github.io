@@ -6,7 +6,7 @@ email: mike_huang01@outlook.com
 description: ""
 keyword: ""
 url: "https://mike-huang01.github.io"              # your host, for absolute URL
-baseurl: "/blog"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
